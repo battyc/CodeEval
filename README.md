@@ -10,14 +10,14 @@ Chris
 
 Challenges Solved
 -----------------
-###Hard
+				###Hard
 **String Permutations** - Print out all permutations of a string.
 **Type Ahead** - Building a type ahead feature.
-###Medium
+				###Medium
 **Detecting Cycles** - Detecting loops within a sequence.
 **Longest Lines** - Finding the 'N' longest lines within a file.
 **Mth to Last Element** - Determine the Mth to last element of a list.
-###Easy
+				###Easy
 **Fizz Buzz** - A simple game involving divisibility tests.
 **Lowercase** - Lowercase text.
 **Multiplication Tables** - Print out the grade school multiplication table upto 12*12.
