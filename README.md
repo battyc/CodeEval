@@ -14,11 +14,13 @@ Challenges Solved
 ---
 **String Permutations** - Print out all permutations of a string.
 **Type Ahead** - Building a type ahead feature.
+---
 ###Medium
 ---
 **Detecting Cycles** - Detecting loops within a sequence.
 **Longest Lines** - Finding the 'N' longest lines within a file.
 **Mth to Last Element** - Determine the Mth to last element of a list.
+---
 ###Easy
 ---
 **Fizz Buzz** - A simple game involving divisibility tests.
@@ -26,3 +28,4 @@ Challenges Solved
 **Multiplication Tables** - Print out the grade school multiplication table upto 12*12.
 **Reversing Words** - Reversing an input sequence of words.
 **Sum of Digits** - Sum of digits comprising a number
+---
