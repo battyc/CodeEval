@@ -18,6 +18,8 @@ Challenges Solved
 
 **String Permutations** - Print out all permutations of a string.
 
+**Text Dollar** - Print out the text dollar amount of a given quantity.
+
 **Type Ahead** - Building a type ahead feature.
 
 ---
