@@ -9,9 +9,9 @@ Thank you!
 Chris
 
 ---
-##Challenges Solved
+Challenges Solved
+-----------------
 
----
 ###Hard
 ---
 **ASCII Decryption** - Decrypt a message
