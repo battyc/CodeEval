@@ -25,6 +25,10 @@ Challenges Solved
 ---
 **Detecting Cycles** - Detecting loops within a sequence.
 
+**First Non-Repeated Character** - Find the first non repeated character in a string.
+
+**Interrupted Bubble Sort** - Sort a list of elements. Partially.
+
 **Longest Lines** - Finding the 'N' longest lines within a file.
 
 **Mth to Last Element** - Determine the Mth to last element of a list.
@@ -45,5 +49,7 @@ Challenges Solved
 **Reversing Words** - Reversing an input sequence of words.
 
 **Sum of Digits** - Sum of digits comprising a number
+
+**Trick or Treat** - Count the candies.
 
 ---
