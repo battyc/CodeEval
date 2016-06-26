@@ -1,17 +1,20 @@
-
-##CodeEval Challenges
+CodeEval Challenges
+-------------------
 This repository contains my personal solutions to the challenges taken at CodeEval.com
 
-Feel free to review them for whatever purpose, but please do not re-submit them to the site as your own.
+Feel free to review them for whatever purpose but please do not re-submit them to the site as your own.
 
 Thank you!
 
 Chris
 
-Challenges Solved
------------------
+---
+##Challenges Solved
+---
 ###Hard
 ---
+**ASCII Decryption** - Decrypt a message
+
 **String Permutations** - Print out all permutations of a string.
 
 **Type Ahead** - Building a type ahead feature.
@@ -28,7 +31,11 @@ Challenges Solved
 ---
 ###Easy
 ---
+**Clean Up The Words** - Print the words separated by spaces.
+
 **Fizz Buzz** - A simple game involving divisibility tests.
+
+**File Size** - Print the file size in bytes.
 
 **Lowercase** - Lowercase text.
 

@@ -12,12 +12,12 @@ for i in fileList:
 	count = 1
 	while count <= int(lineInfo[2]):
 		if count % int(lineInfo[0]) == 0 and count % int(lineInfo[1]) == 0:
-			print "FB",
+			print("FB", end=" ")
 		elif count % int(lineInfo[0]) == 0:
-			print "F",
+			print("F", end=" ")
 		elif count % int(lineInfo[1]) == 0:
-			print "B",
+			print("B", end=" ")
 		else:
-			print count,
+			print(count, end=" ")
 		count+=1
-	print
+	print("")
