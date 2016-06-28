@@ -46,7 +46,7 @@ Challenges Solved
 
 **Lowercase** - Lowercase text.
 
-**Multiplication Tables** - Print out the grade school multiplication table upto 12*12.
+**Multiplication Tables** - Print out the grade school multiplication table up to 12*12.
 
 **Reversing Words** - Reversing an input sequence of words.
 
