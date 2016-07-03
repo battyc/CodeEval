@@ -7,11 +7,11 @@ This program takes a text file of integers and calculates the sum of each charac
 
 import sys
 
-f = open(sys.argv[1], "r")
-fileList = f.readlines()
+fpointer = open(sys.argv[1], "r")
+file_list = fpointer.readlines()
 
-for l in fileList:
-	sum = 0
-	for num in list(map(int,l.replace('\n', ""))):
-		sum += num
-	print(sum)
+for line in file_list:
+	digit_sum = 0
+	for num in list(map(int,line.replace('\n', ""))):
+		digit_sum += num
+	print(digit_sum)

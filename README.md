@@ -40,6 +40,8 @@ Challenges Solved
 ---
 **Clean Up The Words** - Print the words separated by spaces.
 
+**Data Recovery** - Reconstruct a sentence using hints.
+
 **Fizz Buzz** - A simple game involving divisibility tests.
 
 **File Size** - Print the file size in bytes.
