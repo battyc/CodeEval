@@ -16,6 +16,8 @@ Challenges Solved
 ---
 **ASCII Decryption** - Decrypt a message
 
+**Decryption** - Decrypt a message given a keyed alphabet.
+
 **String Permutations** - Print out all permutations of a string.
 
 **Text Dollar** - Print out the text dollar amount of a given quantity.
